@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ciudadesdelmundo.app-mergeDebugResources-46:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Mario\\Universidad\\Desarrollo Movil\\Tarea 3\\CiudadesDelMundo_Final\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "64",
+                        "endColumns": "87",
+                        "endOffsets": "147"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "86",
+                        "endOffsets": "137"
+                    }
+                }
+            ]
+        }
+    ]
+}

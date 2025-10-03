@@ -1,0 +1,51 @@
+com.example.ciudadesdelmundo.app-jetified-material3-release-0 C:\Users\ncana\.gradle\caches\8.12\transforms\13334847e7381ce800cbbc2b5f22a0e9\transformed\jetified-material3-release\res
+com.example.ciudadesdelmundo.app-jetified-activity-ktx-1.9.2-1 C:\Users\ncana\.gradle\caches\8.12\transforms\13b2fe98595f6149596745554f951085\transformed\jetified-activity-ktx-1.9.2\res
+com.example.ciudadesdelmundo.app-jetified-ui-geometry-release-2 C:\Users\ncana\.gradle\caches\8.12\transforms\30d5b0feae6eaa1585419a534fea7cc2\transformed\jetified-ui-geometry-release\res
+com.example.ciudadesdelmundo.app-jetified-lifecycle-process-2.8.6-3 C:\Users\ncana\.gradle\caches\8.12\transforms\33a4fa688dee534064202dd96eb6fa37\transformed\jetified-lifecycle-process-2.8.6\res
+com.example.ciudadesdelmundo.app-jetified-annotation-experimental-1.4.1-4 C:\Users\ncana\.gradle\caches\8.12\transforms\37adf5135bf613e339955fcb41f12915\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.ciudadesdelmundo.app-jetified-graphics-path-1.0.1-5 C:\Users\ncana\.gradle\caches\8.12\transforms\3c26ff294dd6a2fb90f129d94a09410a\transformed\jetified-graphics-path-1.0.1\res
+com.example.ciudadesdelmundo.app-jetified-activity-1.9.2-6 C:\Users\ncana\.gradle\caches\8.12\transforms\3d3106cf02fc0ea5881a19564101dd12\transformed\jetified-activity-1.9.2\res
+com.example.ciudadesdelmundo.app-jetified-lifecycle-runtime-release-7 C:\Users\ncana\.gradle\caches\8.12\transforms\3d892903cdb4e8f34e39d2755ea55733\transformed\jetified-lifecycle-runtime-release\res
+com.example.ciudadesdelmundo.app-core-runtime-2.2.0-8 C:\Users\ncana\.gradle\caches\8.12\transforms\3f4c30ef126cec22b01469751a193187\transformed\core-runtime-2.2.0\res
+com.example.ciudadesdelmundo.app-jetified-lifecycle-runtime-ktx-release-9 C:\Users\ncana\.gradle\caches\8.12\transforms\3f635b65d3e2da545cc5a925ca4d5166\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.example.ciudadesdelmundo.app-jetified-foundation-release-10 C:\Users\ncana\.gradle\caches\8.12\transforms\46523dfc2ba5739cd5606cd41af07f1f\transformed\jetified-foundation-release\res
+com.example.ciudadesdelmundo.app-jetified-savedstate-1.2.1-11 C:\Users\ncana\.gradle\caches\8.12\transforms\54c2acfec87aff9c6f2cabf2f30155a6\transformed\jetified-savedstate-1.2.1\res
+com.example.ciudadesdelmundo.app-jetified-animation-core-release-12 C:\Users\ncana\.gradle\caches\8.12\transforms\575ed8198c65a031eb0ba9e199e55eac\transformed\jetified-animation-core-release\res
+com.example.ciudadesdelmundo.app-jetified-core-ktx-1.13.1-13 C:\Users\ncana\.gradle\caches\8.12\transforms\5f4e013b8c9ab217203cb551264ea7c7\transformed\jetified-core-ktx-1.13.1\res
+com.example.ciudadesdelmundo.app-jetified-emoji2-1.3.0-14 C:\Users\ncana\.gradle\caches\8.12\transforms\621281e7f42219f4ff08860286eccde0\transformed\jetified-emoji2-1.3.0\res
+com.example.ciudadesdelmundo.app-jetified-coil-base-2.4.0-15 C:\Users\ncana\.gradle\caches\8.12\transforms\67a04e6e9486b4569ed8733f18a0fd12\transformed\jetified-coil-base-2.4.0\res
+com.example.ciudadesdelmundo.app-jetified-ui-unit-release-16 C:\Users\ncana\.gradle\caches\8.12\transforms\79bae583f98a0b5d88f84a164d85e9b8\transformed\jetified-ui-unit-release\res
+com.example.ciudadesdelmundo.app-jetified-material-release-17 C:\Users\ncana\.gradle\caches\8.12\transforms\7ae212348f8a871ed0a6373e1c50226e\transformed\jetified-material-release\res
+com.example.ciudadesdelmundo.app-jetified-material-icons-core-release-18 C:\Users\ncana\.gradle\caches\8.12\transforms\841647beb2cccc79c342675e84840765\transformed\jetified-material-icons-core-release\res
+com.example.ciudadesdelmundo.app-jetified-appcompat-resources-1.6.1-19 C:\Users\ncana\.gradle\caches\8.12\transforms\8a83f45344bd5335370197426ca9f020\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.ciudadesdelmundo.app-jetified-runtime-release-20 C:\Users\ncana\.gradle\caches\8.12\transforms\9a55b4abdd878fa0b4ae71cd4a389528\transformed\jetified-runtime-release\res
+com.example.ciudadesdelmundo.app-jetified-lifecycle-viewmodel-release-21 C:\Users\ncana\.gradle\caches\8.12\transforms\a2a32a0f0e64ebd4c14574c7a880cdbb\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.ciudadesdelmundo.app-jetified-animation-release-22 C:\Users\ncana\.gradle\caches\8.12\transforms\a933294a4d62a284158d0029b607b9a7\transformed\jetified-animation-release\res
+com.example.ciudadesdelmundo.app-lifecycle-livedata-core-2.8.6-23 C:\Users\ncana\.gradle\caches\8.12\transforms\a938d6118642296710e0cdfd9bc63a5d\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.ciudadesdelmundo.app-jetified-ui-graphics-release-24 C:\Users\ncana\.gradle\caches\8.12\transforms\aac0b684ca7893e24bef61e189d8178e\transformed\jetified-ui-graphics-release\res
+com.example.ciudadesdelmundo.app-jetified-runtime-saveable-release-25 C:\Users\ncana\.gradle\caches\8.12\transforms\ad270d9c7174a732c7d336430da0d52e\transformed\jetified-runtime-saveable-release\res
+com.example.ciudadesdelmundo.app-core-1.13.1-26 C:\Users\ncana\.gradle\caches\8.12\transforms\afe512b5400be2e072be9dc52bd97028\transformed\core-1.13.1\res
+com.example.ciudadesdelmundo.app-jetified-profileinstaller-1.3.1-27 C:\Users\ncana\.gradle\caches\8.12\transforms\b962e814847c035c12a9953d44feb285\transformed\jetified-profileinstaller-1.3.1\res
+com.example.ciudadesdelmundo.app-jetified-ui-release-28 C:\Users\ncana\.gradle\caches\8.12\transforms\ba2cbc7caf14e0bacb966cd542ba3e40\transformed\jetified-ui-release\res
+com.example.ciudadesdelmundo.app-jetified-customview-poolingcontainer-1.0.0-29 C:\Users\ncana\.gradle\caches\8.12\transforms\c0a9df55866b44181b0bbc5620807ace\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.ciudadesdelmundo.app-jetified-ui-tooling-data-release-30 C:\Users\ncana\.gradle\caches\8.12\transforms\c5fdc181319972fc487aa655b355b531\transformed\jetified-ui-tooling-data-release\res
+com.example.ciudadesdelmundo.app-jetified-material-ripple-release-31 C:\Users\ncana\.gradle\caches\8.12\transforms\c6a97cb1e9a8261869748774068390d9\transformed\jetified-material-ripple-release\res
+com.example.ciudadesdelmundo.app-jetified-savedstate-ktx-1.2.1-32 C:\Users\ncana\.gradle\caches\8.12\transforms\c95023c91805ca36f5405fd82425f43d\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.ciudadesdelmundo.app-jetified-foundation-layout-release-33 C:\Users\ncana\.gradle\caches\8.12\transforms\cb5f6af29e6dea8c3f703040b17c3eaf\transformed\jetified-foundation-layout-release\res
+com.example.ciudadesdelmundo.app-jetified-ui-test-manifest-1.7.2-34 C:\Users\ncana\.gradle\caches\8.12\transforms\cf150213786600eada9500a43358b4be\transformed\jetified-ui-test-manifest-1.7.2\res
+com.example.ciudadesdelmundo.app-jetified-ui-text-release-35 C:\Users\ncana\.gradle\caches\8.12\transforms\d64e5e80c5dc49b4df28c4fd53184469\transformed\jetified-ui-text-release\res
+com.example.ciudadesdelmundo.app-jetified-ui-tooling-preview-release-36 C:\Users\ncana\.gradle\caches\8.12\transforms\e44db2e62d4186f41ff9c86c965e9372\transformed\jetified-ui-tooling-preview-release\res
+com.example.ciudadesdelmundo.app-jetified-lifecycle-viewmodel-ktx-2.8.6-37 C:\Users\ncana\.gradle\caches\8.12\transforms\e52200f70b5cbabee7ad12db6e0a366d\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\res
+com.example.ciudadesdelmundo.app-jetified-activity-compose-1.9.2-38 C:\Users\ncana\.gradle\caches\8.12\transforms\e6e651ac06cce0829e0903228361d317\transformed\jetified-activity-compose-1.9.2\res
+com.example.ciudadesdelmundo.app-jetified-lifecycle-runtime-compose-release-39 C:\Users\ncana\.gradle\caches\8.12\transforms\e9b4f25ffd33673b8cb9b2f34fe61622\transformed\jetified-lifecycle-runtime-compose-release\res
+com.example.ciudadesdelmundo.app-jetified-ui-tooling-release-40 C:\Users\ncana\.gradle\caches\8.12\transforms\eaaccd62a474ed2bbea7be8201daf39b\transformed\jetified-ui-tooling-release\res
+com.example.ciudadesdelmundo.app-jetified-startup-runtime-1.1.1-41 C:\Users\ncana\.gradle\caches\8.12\transforms\f107294505a1e4793318140ced21c45f\transformed\jetified-startup-runtime-1.1.1\res
+com.example.ciudadesdelmundo.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-42 C:\Users\ncana\.gradle\caches\8.12\transforms\f5ae621b3af3d1e718d79784c6a1b85a\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.ciudadesdelmundo.app-jetified-ui-util-release-43 C:\Users\ncana\.gradle\caches\8.12\transforms\fe3454ca3422457ee1a21a578ecb4206\transformed\jetified-ui-util-release\res
+com.example.ciudadesdelmundo.app-pngs-44 D:\Mario\Universidad\Desarrollo Movil\Tarea 3\CiudadesDelMundo_Final\app\build\generated\res\pngs\debug
+com.example.ciudadesdelmundo.app-resValues-45 D:\Mario\Universidad\Desarrollo Movil\Tarea 3\CiudadesDelMundo_Final\app\build\generated\res\resValues\debug
+com.example.ciudadesdelmundo.app-packageDebugResources-46 D:\Mario\Universidad\Desarrollo Movil\Tarea 3\CiudadesDelMundo_Final\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.ciudadesdelmundo.app-packageDebugResources-47 D:\Mario\Universidad\Desarrollo Movil\Tarea 3\CiudadesDelMundo_Final\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.ciudadesdelmundo.app-debug-48 D:\Mario\Universidad\Desarrollo Movil\Tarea 3\CiudadesDelMundo_Final\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.ciudadesdelmundo.app-debug-49 D:\Mario\Universidad\Desarrollo Movil\Tarea 3\CiudadesDelMundo_Final\app\src\debug\res
+com.example.ciudadesdelmundo.app-main-50 D:\Mario\Universidad\Desarrollo Movil\Tarea 3\CiudadesDelMundo_Final\app\src\main\res

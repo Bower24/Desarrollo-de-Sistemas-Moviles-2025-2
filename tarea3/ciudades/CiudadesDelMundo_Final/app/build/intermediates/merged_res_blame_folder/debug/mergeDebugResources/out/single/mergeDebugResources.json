@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_praga.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/praga.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_oslo.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/oslo.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_san_francisco.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/san_francisco.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_barcelona.jpeg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/barcelona.jpeg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_seul.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/seul.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_paris.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/paris.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_toronto.jpeg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/toronto.jpeg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_roma.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/roma.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_atenas.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/atenas.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_nueva_york.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/nueva_york.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_dubai.jpeg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/dubai.jpeg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_lima.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/lima.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_buenos_aires.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/buenos_aires.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_amsterdam.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/amsterdam.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_el_cairo.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/el_cairo.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_rio_de_janeiro.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/rio_de_janeiro.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_tokyo.jpeg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/tokyo.jpeg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_varsovia.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/varsovia.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_hong_kong.jpeg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/hong_kong.jpeg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_bangkok.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/bangkok.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_estambul.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/estambul.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_londres.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/londres.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_berlin.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/berlin.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_venecia.jpeg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/venecia.jpeg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_los_angeles.jpeg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/los_angeles.jpeg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_estocolmo.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/estocolmo.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_singapur.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/singapur.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_moscu.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/moscu.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_sidney.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/sidney.jpg"
+    },
+    {
+        "merged": "com.example.ciudadesdelmundo.app-debug-48:/drawable_ciudad_de_mexico.jpg.flat",
+        "source": "com.example.ciudadesdelmundo.app-main-50:/drawable/ciudad_de_mexico.jpg"
+    }
+]
