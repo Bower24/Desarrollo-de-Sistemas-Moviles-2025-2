@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Lima Guide</string>
+    <string name="welcome_message">Descubre lo mejor de Lima</string>
+    <string name="back_button">Atrás</string>
+    <string name="recommendations">Recomendaciones</string>
+
+    <!-- Categorías -->
+    <string name="category_coffee_shops">Cafeterías</string>
+    <string name="category_restaurants">Restaurantes</string>
+    <string name="category_parks">Parques</string>
+    <string name="category_malls">Centros Comerciales</string>
+
+    <!-- Cafeterías -->
+    <string name="coffee_1_name">Neira Café Lab</string>
+    <string name="coffee_1_desc">Un laboratorio de café de especialidad en Miraflores. Perfecto para los amantes del buen café que buscan experimentar con diferentes métodos y granos peruanos.</string>
+    <string name="coffee_2_name">Puku Puku Café</string>
+    <string name="coffee_2_desc">Con varias sedes, Puku Puku se enfoca en la sostenibilidad y el comercio justo. Ofrecen un ambiente relajado y deliciosos postres para acompañar tu bebida.</string>
+    <string name="coffee_3_name">Colonia y Co.</string>
+    <string name="coffee_3_desc">Un espacio acogedor en Barranco que combina café de alta calidad con una propuesta de brunch y comida saludable. Ideal para trabajar o pasar un rato agradable.</string>
+
+    <!-- Restaurantes -->
+    <string name="resto_1_name">Central</string>
+    <string name="resto_1_desc">Reconocido mundialmente, Central ofrece una experiencia gastronómica única explorando los ecosistemas de Perú. Es un viaje culinario a través de la biodiversidad del país.</string>
+    <string name="resto_2_name">Maido</string>
+    <string name="resto_2_desc">Fusión perfecta entre la cocina japonesa y peruana (Nikkei). Maido te sorprenderá con sabores intensos y presentaciones impecables. Una experiencia inolvidable.</string>
+    <string name="resto_3_name">Isolina, Taberna Peruana</string>
+    <string name="resto_3_desc">Para los amantes de la comida criolla contundente y tradicional. Isolina rescata recetas antiguas en porciones generosas, ideal para compartir en un ambiente de taberna clásica.</string>
+    <string name="resto_4_name">El Mercado</string>
+    <string name="resto_4_desc">La cevichería de Rafael Osterling. Un lugar con un ambiente vibrante y casual que sirve algunos de los mejores ceviches y platos marinos de la ciudad.</string>
+
+    <!-- Parques -->
+    <string name="park_1_name">Parque El Olivar</string>
+    <string name="park_1_desc">Un histórico bosque en el corazón de San Isidro con más de 1,500 olivos. Es un oasis de tranquilidad, perfecto para caminar, relajarse y observar aves.</string>
+    <string name="park_2_name">Parque Kennedy</string>
+    <string name="park_2_desc">El parque central de Miraflores, famoso por su población de gatos bien cuidados. Rodeado de cafés, tiendas y vida nocturna, es un punto de encuentro vital en el distrito.</string>
+    <string name="park_3_name">Circuito Mágico del Agua</string>
+    <string name="park_3_desc">Ubicado en el Parque de la Reserva, este conjunto de trece fuentes ornamentales ofrece un espectáculo de agua, luz y música por las noches. Es ideal para visitar en familia.</string>
+
+    <!-- Centros Comerciales -->
+    <string name="mall_1_name">Larcomar</string>
+    <string name="mall_1_desc">Un centro comercial único construido en un acantilado con una vista espectacular al Océano Pacífico. Ofrece tiendas exclusivas, restaurantes y entretenimiento.</string>
+    <string name="mall_2_name">Jockey Plaza</string>
+    <string name="mall_2_desc">Uno de los centros comerciales más grandes y completos de Lima. Cuenta con una vasta selección de tiendas por departamento, marcas internacionales, cines y un gran patio de comidas.</string>
+    <string name="mall_3_name">Real Plaza Salaverry</string>
+    <string name="mall_3_desc">Un moderno centro comercial con una amplia oferta de moda, tecnología y gastronomía. Su diseño es abierto y luminoso, creando una experiencia de compra agradable.</string>
+</resources>
