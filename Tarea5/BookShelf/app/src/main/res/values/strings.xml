@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="loading_failed">Error al cargar. Por favor, verifica tu conexión.</string>
+    <string name="retry">Reintentar</string>
+</resources>
